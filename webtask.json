@@ -6,7 +6,7 @@
     "description": "This is a sample extension",
     "type": "application",
     "repository": "google",
-    "docsUrl":"javascript&#58;alert(1)",
+    "docsUrl":"https://google.com",
     "keywords": [
       "auth0",
       "extension"
