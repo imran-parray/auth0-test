@@ -6,7 +6,7 @@
     "description": "This is a sample extension",
     "type": "application",
     "repository": "google",
-    "docsUrl":"https://google.com",
+    "docsUrl":"git://imran.com",
     "keywords": [
       "auth0",
       "extension"
