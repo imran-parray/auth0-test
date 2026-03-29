@@ -6,7 +6,7 @@
     "description": "This is a sample extension",
     "type": "application",
     "repository": "google",
-    "docsUrl":"javascript%253Aalert(1)",
+    "docsUrl":"https://docs.snapsec.co",
     "keywords": [
       "auth0",
       "extension"
